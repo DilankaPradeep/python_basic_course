@@ -32,4 +32,6 @@ d = False
 # XOR gate impl
 print(c^d)
 
+print(c & d)
+
 
